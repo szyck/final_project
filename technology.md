@@ -1,19 +1,20 @@
 # Final Project 
 ***Mobile Phone Classification Analysis (Outline)***
 
-## Summary
+## Technologies Used
 
-Machine Learning classification model(s) - Logistic Regression algorithm (Scikit-learn)
 
-Questions to answer:
-* Predict price range (4 price ranges) of test dataset after training model with training dataset
-* Determine what phone features have the biggest impact on price
-
+### Database Storage
 SQLite database
+
+### Data cleaning and analysis
 Python - Jupyter notebook for Machine Learning model
 
+### Machine Learning
+Machine Learning classification model(s) - Logistic Regression algorithm (Scikit-learn)
 
-Dashboard/Visualizations:
+
+### Dashboard/Visualizations:
 * Confusion Matrix
 * Feature Correlation heatmap
 * Density plots of key features
