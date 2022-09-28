@@ -47,3 +47,9 @@ Next we tried a total of 9 Machine Learning Algorithms for each we made a confus
 * SVM
 
 We compared the accuracies of all the models and found that SVM is the best classifier for our project
+
+<h2>Final Presenation</h2>
+
+A copy our final presenation can be found here:
+
+https://docs.google.com/presentation/d/1orviC2ZUsLyrI1QI4nqv4Cy3B4yMkgYy9hqao11yCwU/edit#slide=id.p
