@@ -50,6 +50,7 @@ We compared the accuracies of all the models and found that SVM is the best clas
 
 <h2>Final Presenation</h2>
 
-A copy our final presenation can be found here:
+A copy our final presentation and related dashboards can be found here:
 
 https://docs.google.com/presentation/d/1orviC2ZUsLyrI1QI4nqv4Cy3B4yMkgYy9hqao11yCwU/edit#slide=id.p
+https://public.tableau.com/app/profile/john.m.ratcliff/viz/FinalProjectDashboard_16644078251650/Dashboard-Data#1
