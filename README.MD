@@ -54,6 +54,6 @@ A copy our final presentation and related dashboards can be found here:
 
 https://docs.google.com/presentation/d/1orviC2ZUsLyrI1QI4nqv4Cy3B4yMkgYy9hqao11yCwU/edit#slide=id.p
 
-https://public.tableau.com/app/profile/john.m.ratcliff/viz/FinalProjectDashboard_16644078251650/Dashboard-Data#1
+https://public.tableau.com/app/profile/john.m.ratcliff/viz/Final_Project_16642168942350/Dashboard-Data
 
 https://public.tableau.com/app/profile/john.m.ratcliff/viz/Model_Results/Dashboard-ModelResults
