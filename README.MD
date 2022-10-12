@@ -50,6 +50,7 @@ Next we tried a total of 9 Machine Learning Algorithms for each we made a confus
 
 We compared the accuracies of all the models and found that SVM is the best classifier for our project
 
+<img width="404" alt="final_6" src="https://user-images.githubusercontent.com/104687817/195238735-156e9e10-0920-4e75-a45b-5a3c49651d1c.PNG">
 <h2>Final Presentation</h2>
 
 A copy our final presentation and related dashboards can be found here:
