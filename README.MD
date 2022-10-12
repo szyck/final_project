@@ -38,7 +38,8 @@ We studied the entire dataset we had for the topic on Kaggle found all the impor
 * Histogram of all the attributes
 The idea of implementing svm classifier in Python is to use the phone specification features to train an SVM classifier and use the trained SVM model to predict the price_range.
 
-![confusion_matrix_lr](https://user-images.githubusercontent.com/104687817/195238352-0195f93a-e2f5-4302-bcdb-06a6310444a6.png)
+<img width="438" alt="image_4" src="https://user-images.githubusercontent.com/104687817/195239752-4eef2aef-046b-4a55-bc7c-ff5e95676798.PNG">
+
 
 Next we tried a total of 9 Machine Learning Algorithms for each we made a confusion matrix and the most contributing features were found:
 * Logistic Regression
