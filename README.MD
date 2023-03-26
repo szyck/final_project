@@ -28,7 +28,7 @@ A dataset consisting of various parameters to predict the price score/range of a
 
 <h2>analysis</h2>
 
-We studied the entire dataset we had for the topic on Kaggle found all the important information on the data we were going to work on
+We studied the entire dataset we had for the topic on Kaggle and found all the important information on the data we were going to work on
 * The Data Preprocessing
 * Description of Data
 * Info about the data
