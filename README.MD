@@ -1,6 +1,6 @@
 <h1>Module 20: Mobile-Price-Classification-kaggle</h1>
 
-This project has been implementing using python library like Numpy,Pandas to importing the data and design the data and also using Matplotlib and Seaborn for visualization for data.
+This project has been implemented using python libraries like Numpy,Pandas to import and design the data. Matplotlib and Seaborn were used for visualization of the data.
 
 A dataset consisting of various parameters to predict the price score/range of a mobile phone based on certain inputs such as following:
 
